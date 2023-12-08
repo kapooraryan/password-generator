@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>Password Manager</h1>
+  <h1>Password Generator</h1>
   <img src="https://github.com/kapooraryan/password-generator/assets/69362333/35ddc87e-9386-4553-9d0e-2b32fee61b3d">
 </div>
 
